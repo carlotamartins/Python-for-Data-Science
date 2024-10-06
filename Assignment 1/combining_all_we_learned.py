@@ -9,6 +9,7 @@ squared_list = [number**2 for number in list]
 
 print(squared_list)
 
+##MFDKSFNDod
 
 
 #Exercise 16: Nested Data Structures
