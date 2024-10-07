@@ -8,7 +8,7 @@ def fizzbuzz(n):
     else:
         return n
 
-
+#Defining a counter that will print the function until reaching 20
 counter = 1
 while counter <= 20:
     print(fizzbuzz(counter))
