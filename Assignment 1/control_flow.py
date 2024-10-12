@@ -13,6 +13,10 @@ elif number < 0:
 elif number == 0:
     print("The number is zero.")
 
+#Printed output: 
+# Insert a number: -2 
+# The number is negative.
+
 
 
 
@@ -26,6 +30,12 @@ list = [1, 2, 3, 4, 5]
 for number in list:
     print(number)
 
+#Printed output:
+# 1
+# 2
+# 3
+# 4
+# 5
 
 
 
@@ -40,6 +50,12 @@ while i<=5:
     print(i)
     i += 1
 
+#Printed output:
+# 1
+# 2
+# 3
+# 4
+# 5
 
 
 #Exercise 11: Match statement
@@ -56,12 +72,17 @@ match grade:
         print("Good job!")
     case "C":
         print("Fair.")
-    case "A":
+    case "D":
         print("Needs improvement.")
-    case "A":
+    case "F":
         print("Failing.")
     case _:
         print("Invalid input. Error.")
+
+#Printed output:
+# Insert a grade (A, B, C, D or F): F
+# Failing.
+
 
 
 print("------------------------\n")
