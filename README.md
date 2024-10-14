@@ -4,6 +4,7 @@ It contains assignments and other trainings and evaluations correspondent to the
 In the main branch, you can find the assignment for lecture 1 and, on each one of the branches, under a folder called "Assignment 2", you will be able to find the corresponding exercises given from lecture 2:
 
 **Branch: Main**
+
 Folder: Assignment 1
   - combining-all_we_learned.py
   - control_flow.py
@@ -12,19 +13,5 @@ Folder: Assignment 1
   - sintax_and_variables.py
   - tupes_and_sets.py
 
-
-**Branch: Exercise-1-FizzBuzz**
-Folder: Assignment 2
-  - fizzbuzz.py
-
-**Branch: Exercise-2-BasicDataFiltering**
-Folder: Assignment 2
-  - data_filtering.py
-
-**Branch: Exercise-3-SimpleToDoList**
-Folder: Assignment 2
-  - to-do_list.py
-
-**Branch: Exercise-4-TemperatureConverter**
-Folder: Assignment 2
-  - temp_conv.py
+Folder: Assignment 3
+  - session_3.ipynb
