@@ -11,3 +11,9 @@ Folder: Assignment 1
   - sintax_and_variables.py
   - tuples_and_sets.py
 
+**Branch: Assignment 2 **
+Folder: Assignment 2
+  - fizzbuzz.py
+  - data_filtering.py
+  - to-do_list.py
+  - temp_conv.py
