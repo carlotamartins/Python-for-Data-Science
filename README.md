@@ -4,6 +4,7 @@ It contains assignments and other trainings and evaluations correspondent to the
 In the main branch, you can find all the finished assignments and, on each one of the branches, you will be able to  find the exercises correspondent to its name:
 
 **Branch: Main**
+
 Folder: Assignment 1
   - combining-all_we_learned.py
   - control_flow.py
