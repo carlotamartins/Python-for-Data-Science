@@ -21,6 +21,10 @@ Folder: Assignment 2
 Folder: Assignment 3
   - session_3
 
+Folder: Assignment 4
+  - annotations_by_month (folder from an exercise)
+  - session_4
+
 **Branch: Assignment 2**
 Folder: Assignment 2
   - fizzbuzz.py
@@ -34,6 +38,7 @@ Folder: Assignment 3
 
 **Branch: Assignment 4**
 Folder: Assignment 4
+  - annotations_by_month (folder from an exercise)
   - session_4
 
 **Branch: Assignment 5**
