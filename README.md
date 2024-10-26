@@ -21,9 +21,6 @@ Folder: Assignment 2
 Folder: Assignment 3
   - session_3
 
-Folder: Assignment 4
-  - session_4
-
 **Branch: Assignment 2**
 Folder: Assignment 2
   - fizzbuzz.py
