@@ -6,5 +6,6 @@ In the main branch, you can find all the finished assignments and, on each one o
 
 **Branch: Assignment 4**
 Folder: Assignment 4
+  - annotations_by_month (folder from an exercise)
   - session_4
 
