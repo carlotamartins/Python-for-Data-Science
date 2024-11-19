@@ -4,7 +4,7 @@ It contains assignments and other trainings and evaluations correspondent to the
 
 **Branch: Assignment 5**
 
-Folder: Assignment 5
+Files:
   - session_5
   - annotations
   - other files related to exercise resolution (such as data.parquet, data.pkl, files_by_month.pkl, grades.csv, json_example.json, text_file.txt)
