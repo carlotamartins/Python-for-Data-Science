@@ -23,6 +23,7 @@ Folder: Assignment 2
 Folder: Assignment 3
   - session_3
 
+
 **Branch: Assignment 1**
 Folder: Assignment 1
   - combining-all_we_learned.py
@@ -31,6 +32,7 @@ Folder: Assignment 1
   - lists_and_dictionaries.py
   - sintax_and_variables.py
   - tuples_and_sets.py
+
 
 **Branch: Assignment 2**
 Folder: Assignment 2
