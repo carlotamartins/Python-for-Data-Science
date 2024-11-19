@@ -42,5 +42,9 @@ Folder: Assignment 4
   - session_4
 
 **Branch: Assignment 5**
+
 Folder: Assignment 5
   - session_5
+  - annotations
+  - other files related to exercise resolution (such as data.parquet, data.pkl, files_by_month.pkl, grades.csv, json_example.json, text_file.txt)
+
