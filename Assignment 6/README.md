@@ -2,9 +2,9 @@ This repository is a workfolder for the course "Python for Data Science" from th
 It contains assignments and other trainings and evaluations correspondent to the class.
 
 
-**Branch: Assignment 5**
+**Branch: Assignment 6**
 
-Folder: Assignment 5
-  - session_5
-  - annotations
+- session_6
+- netflix_titles.csv
+- titanic_train_and_test2
 
